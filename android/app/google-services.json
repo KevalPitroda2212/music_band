@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820074316342",
+    "project_id": "music-band-395a3",
+    "storage_bucket": "music-band-395a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820074316342:android:374ccfcc57a7fd63ebce97",
+        "android_client_info": {
+          "package_name": "com.example.music_band"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820074316342-vc2ra3l2cbn3gtrkqpvtjamfakn373qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_9Un6ps2bHBHMSDeEmpk7zxZbelq4tc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820074316342-vc2ra3l2cbn3gtrkqpvtjamfakn373qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
